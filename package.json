@@ -1,0 +1,12 @@
+{
+  "name" : "@fuglede/youtrack-workflow-teams-notification",
+  "title" : "Teams notifications",
+  "description" : "Post updates to a Microsoft Teams channel",
+  "dependencies" : {
+    "@jetbrains/youtrack-scripting-api" : "^2019.3.65516"
+  },
+  "youtrack" : {
+    "autoAttached" : false,
+    "readOnly" : false
+  }
+}
