@@ -1,5 +1,7 @@
 {
   "name" : "@fuglede/youtrack-workflow-teams-notification",
+  "version": "0.0.1",
+  "author": "Søren Fuglede Jørgensen",
   "title" : "Teams notifications",
   "description" : "Post updates to a Microsoft Teams channel",
   "dependencies" : {
