@@ -1,6 +1,6 @@
 # YouTrack workflow for Microsoft Teams notifications
 
-This workflow makes sends notifications to a given Microsoft Teams channel whenever a YouTrack issue is changed.
+This workflow sends notifications to a given Microsoft Teams channel whenever a YouTrack issue is changed.
 
 ## Installation
 
